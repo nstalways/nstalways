@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nstalways
 - 👀 I’m interested in Deep Learning
-- 🌱 I’m currently learning Domain Generalization & Adaptation.
-- 💞️ I’m looking to collaborate on DL research, especially Computer Vision and Audio Processing.
+- 🌱 I’m currently learning Continual Learning.
+- 💞️ I’m looking to collaborate on DL research & projects.
 - 📫 How to reach me : send email to me at nstalways@gmail.com
 
 <!---
